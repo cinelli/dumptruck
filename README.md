@@ -1,5 +1,5 @@
-Dumptruck / README.md
-$HOME dotfiles
-######################
-LAYOUT :: /APPLICATION/DOTFILE + SCREENSHOT + NOTES
-QUESTIONS/COMMENTS:  cinelli@#archlinux.freenode
+Dumptruck / README.md<br>
+$HOME dotfiles<br>
+<br>
+LAYOUT :: /APPLICATION/DOTFILE + SCREENSHOT + NOTES<br>
+QUESTIONS/COMMENTS:  cinelli@#archlinux.freenode<br>
