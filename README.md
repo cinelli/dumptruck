@@ -1,4 +1,4 @@
-Dumptruck / README.md<br>
+dumptruck / README.md<br>
 $HOME dotfiles<br>
 <br>
 LAYOUT :: /APPLICATION/DOTFILE + SCREENSHOT + NOTES<br>
